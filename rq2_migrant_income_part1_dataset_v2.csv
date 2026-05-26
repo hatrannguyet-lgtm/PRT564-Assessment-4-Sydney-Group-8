@@ -1,0 +1,285 @@
+﻿visa_group,age_range,applicant_status,sex,arrival_group,age_midpoint,income_target
+Permanent,24 and Under,Primary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent,24 and Under,Primary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent,25 to 34,Primary,Males,Less than 5 years since arrival,29.5,Above median income
+Permanent,25 to 34,Primary,Females,Less than 5 years since arrival,29.5,Above median income
+Permanent,35 to 44,Primary,Males,Less than 5 years since arrival,39.5,Above median income
+Permanent,35 to 44,Primary,Females,Less than 5 years since arrival,39.5,Above median income
+Permanent,45 to 54,Primary,Males,Less than 5 years since arrival,49.5,Above median income
+Permanent,45 to 54,Primary,Females,Less than 5 years since arrival,49.5,Above median income
+Permanent,55 to 64,Primary,Males,Less than 5 years since arrival,59.5,Above median income
+Permanent,55 to 64,Primary,Females,Less than 5 years since arrival,59.5,Below median income
+Permanent,65+,Primary,Males,Less than 5 years since arrival,65.0,Below median income
+Permanent,65+,Primary,Females,Less than 5 years since arrival,65.0,Below median income
+Permanent,24 and Under,Secondary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent,24 and Under,Secondary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent,25 to 34,Secondary,Males,Less than 5 years since arrival,29.5,Above median income
+Permanent,25 to 34,Secondary,Females,Less than 5 years since arrival,29.5,Above median income
+Permanent,35 to 44,Secondary,Males,Less than 5 years since arrival,39.5,Above median income
+Permanent,35 to 44,Secondary,Females,Less than 5 years since arrival,39.5,Above median income
+Permanent,45 to 54,Secondary,Males,Less than 5 years since arrival,49.5,Above median income
+Permanent,45 to 54,Secondary,Females,Less than 5 years since arrival,49.5,Below median income
+Permanent,55 to 64,Secondary,Males,Less than 5 years since arrival,59.5,Above median income
+Permanent,55 to 64,Secondary,Females,Less than 5 years since arrival,59.5,Below median income
+Permanent,65+,Secondary,Males,Less than 5 years since arrival,65.0,Below median income
+Permanent,65+,Secondary,Females,Less than 5 years since arrival,65.0,Below median income
+Permanent Skilled,24 and Under,Primary,Males,Less than 5 years since arrival,24.0,Above median income
+Permanent Skilled,24 and Under,Primary,Females,Less than 5 years since arrival,24.0,Above median income
+Permanent Skilled,25 to 34,Primary,Males,Less than 5 years since arrival,29.5,Above median income
+Permanent Skilled,25 to 34,Primary,Females,Less than 5 years since arrival,29.5,Above median income
+Permanent Skilled,35 to 44,Primary,Males,Less than 5 years since arrival,39.5,Above median income
+Permanent Skilled,35 to 44,Primary,Females,Less than 5 years since arrival,39.5,Above median income
+Permanent Skilled,45 to 54,Primary,Males,Less than 5 years since arrival,49.5,Above median income
+Permanent Skilled,45 to 54,Primary,Females,Less than 5 years since arrival,49.5,Above median income
+Permanent Skilled,55 to 64,Primary,Males,Less than 5 years since arrival,59.5,Above median income
+Permanent Skilled,55 to 64,Primary,Females,Less than 5 years since arrival,59.5,Above median income
+Permanent Skilled,65+,Primary,Males,Less than 5 years since arrival,65.0,Above median income
+Permanent Skilled,65+,Primary,Females,Less than 5 years since arrival,65.0,Above median income
+Permanent Skilled,24 and Under,Secondary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent Skilled,24 and Under,Secondary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent Skilled,25 to 34,Secondary,Males,Less than 5 years since arrival,29.5,Above median income
+Permanent Skilled,25 to 34,Secondary,Females,Less than 5 years since arrival,29.5,Above median income
+Permanent Skilled,35 to 44,Secondary,Males,Less than 5 years since arrival,39.5,Above median income
+Permanent Skilled,35 to 44,Secondary,Females,Less than 5 years since arrival,39.5,Above median income
+Permanent Skilled,45 to 54,Secondary,Males,Less than 5 years since arrival,49.5,Above median income
+Permanent Skilled,45 to 54,Secondary,Females,Less than 5 years since arrival,49.5,Above median income
+Permanent Skilled,55 to 64,Secondary,Males,Less than 5 years since arrival,59.5,Above median income
+Permanent Skilled,55 to 64,Secondary,Females,Less than 5 years since arrival,59.5,Above median income
+Permanent Skilled,65+,Secondary,Males,Less than 5 years since arrival,65.0,Below median income
+Permanent Skilled,65+,Secondary,Females,Less than 5 years since arrival,65.0,Below median income
+Permanent Family,24 and Under,Primary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent Family,24 and Under,Primary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent Family,25 to 34,Primary,Males,Less than 5 years since arrival,29.5,Above median income
+Permanent Family,25 to 34,Primary,Females,Less than 5 years since arrival,29.5,Below median income
+Permanent Family,35 to 44,Primary,Males,Less than 5 years since arrival,39.5,Above median income
+Permanent Family,35 to 44,Primary,Females,Less than 5 years since arrival,39.5,Below median income
+Permanent Family,45 to 54,Primary,Males,Less than 5 years since arrival,49.5,Above median income
+Permanent Family,45 to 54,Primary,Females,Less than 5 years since arrival,49.5,Below median income
+Permanent Family,55 to 64,Primary,Males,Less than 5 years since arrival,59.5,Below median income
+Permanent Family,55 to 64,Primary,Females,Less than 5 years since arrival,59.5,Below median income
+Permanent Family,65+,Primary,Males,Less than 5 years since arrival,65.0,Below median income
+Permanent Family,65+,Primary,Females,Less than 5 years since arrival,65.0,Below median income
+Permanent Family,24 and Under,Secondary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent Family,24 and Under,Secondary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent Family,25 to 34,Secondary,Males,Less than 5 years since arrival,29.5,Below median income
+Permanent Family,25 to 34,Secondary,Females,Less than 5 years since arrival,29.5,Below median income
+Permanent Family,35 to 44,Secondary,Males,Less than 5 years since arrival,39.5,Above median income
+Permanent Family,35 to 44,Secondary,Females,Less than 5 years since arrival,39.5,Below median income
+Permanent Family,45 to 54,Secondary,Males,Less than 5 years since arrival,49.5,Below median income
+Permanent Family,45 to 54,Secondary,Females,Less than 5 years since arrival,49.5,Below median income
+Permanent Family,55 to 64,Secondary,Males,Less than 5 years since arrival,59.5,Below median income
+Permanent Family,55 to 64,Secondary,Females,Less than 5 years since arrival,59.5,Below median income
+Permanent Family,65+,Secondary,Males,Less than 5 years since arrival,65.0,Below median income
+Permanent Family,65+,Secondary,Females,Less than 5 years since arrival,65.0,Below median income
+Permanent Humanitarian,24 and Under,Primary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent Humanitarian,24 and Under,Primary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent Humanitarian,25 to 34,Primary,Males,Less than 5 years since arrival,29.5,Below median income
+Permanent Humanitarian,25 to 34,Primary,Females,Less than 5 years since arrival,29.5,Below median income
+Permanent Humanitarian,35 to 44,Primary,Males,Less than 5 years since arrival,39.5,Below median income
+Permanent Humanitarian,35 to 44,Primary,Females,Less than 5 years since arrival,39.5,Below median income
+Permanent Humanitarian,45 to 54,Primary,Males,Less than 5 years since arrival,49.5,Below median income
+Permanent Humanitarian,45 to 54,Primary,Females,Less than 5 years since arrival,49.5,Below median income
+Permanent Humanitarian,55 to 64,Primary,Males,Less than 5 years since arrival,59.5,Below median income
+Permanent Humanitarian,55 to 64,Primary,Females,Less than 5 years since arrival,59.5,Below median income
+Permanent Humanitarian,24 and Under,Secondary,Males,Less than 5 years since arrival,24.0,Below median income
+Permanent Humanitarian,24 and Under,Secondary,Females,Less than 5 years since arrival,24.0,Below median income
+Permanent Humanitarian,25 to 34,Secondary,Males,Less than 5 years since arrival,29.5,Below median income
+Permanent Humanitarian,25 to 34,Secondary,Females,Less than 5 years since arrival,29.5,Below median income
+Permanent Humanitarian,35 to 44,Secondary,Males,Less than 5 years since arrival,39.5,Below median income
+Permanent Humanitarian,35 to 44,Secondary,Females,Less than 5 years since arrival,39.5,Below median income
+Permanent Humanitarian,45 to 54,Secondary,Males,Less than 5 years since arrival,49.5,Below median income
+Permanent Humanitarian,45 to 54,Secondary,Females,Less than 5 years since arrival,49.5,Below median income
+Permanent Humanitarian,55 to 64,Secondary,Males,Less than 5 years since arrival,59.5,Below median income
+Permanent Humanitarian,55 to 64,Secondary,Females,Less than 5 years since arrival,59.5,Below median income
+Permanent,24 and Under,Primary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent,24 and Under,Primary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent,25 to 34,Primary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent,25 to 34,Primary,Females,5 to 10 years since arrival,29.5,Above median income
+Permanent,35 to 44,Primary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent,35 to 44,Primary,Females,5 to 10 years since arrival,39.5,Above median income
+Permanent,45 to 54,Primary,Males,5 to 10 years since arrival,49.5,Above median income
+Permanent,45 to 54,Primary,Females,5 to 10 years since arrival,49.5,Above median income
+Permanent,55 to 64,Primary,Males,5 to 10 years since arrival,59.5,Above median income
+Permanent,55 to 64,Primary,Females,5 to 10 years since arrival,59.5,Below median income
+Permanent,65+,Primary,Males,5 to 10 years since arrival,65.0,Below median income
+Permanent,65+,Primary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent,24 and Under,Secondary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent,24 and Under,Secondary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent,25 to 34,Secondary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent,25 to 34,Secondary,Females,5 to 10 years since arrival,29.5,Above median income
+Permanent,35 to 44,Secondary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent,35 to 44,Secondary,Females,5 to 10 years since arrival,39.5,Above median income
+Permanent,45 to 54,Secondary,Males,5 to 10 years since arrival,49.5,Above median income
+Permanent,45 to 54,Secondary,Females,5 to 10 years since arrival,49.5,Above median income
+Permanent,55 to 64,Secondary,Males,5 to 10 years since arrival,59.5,Above median income
+Permanent,55 to 64,Secondary,Females,5 to 10 years since arrival,59.5,Below median income
+Permanent,65+,Secondary,Males,5 to 10 years since arrival,65.0,Below median income
+Permanent,65+,Secondary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent Skilled,24 and Under,Primary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent Skilled,24 and Under,Primary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent Skilled,25 to 34,Primary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent Skilled,25 to 34,Primary,Females,5 to 10 years since arrival,29.5,Above median income
+Permanent Skilled,35 to 44,Primary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent Skilled,35 to 44,Primary,Females,5 to 10 years since arrival,39.5,Above median income
+Permanent Skilled,45 to 54,Primary,Males,5 to 10 years since arrival,49.5,Above median income
+Permanent Skilled,45 to 54,Primary,Females,5 to 10 years since arrival,49.5,Above median income
+Permanent Skilled,55 to 64,Primary,Males,5 to 10 years since arrival,59.5,Above median income
+Permanent Skilled,55 to 64,Primary,Females,5 to 10 years since arrival,59.5,Above median income
+Permanent Skilled,65+,Primary,Males,5 to 10 years since arrival,65.0,Above median income
+Permanent Skilled,65+,Primary,Females,5 to 10 years since arrival,65.0,Above median income
+Permanent Skilled,24 and Under,Secondary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent Skilled,24 and Under,Secondary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent Skilled,25 to 34,Secondary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent Skilled,25 to 34,Secondary,Females,5 to 10 years since arrival,29.5,Above median income
+Permanent Skilled,35 to 44,Secondary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent Skilled,35 to 44,Secondary,Females,5 to 10 years since arrival,39.5,Above median income
+Permanent Skilled,45 to 54,Secondary,Males,5 to 10 years since arrival,49.5,Above median income
+Permanent Skilled,45 to 54,Secondary,Females,5 to 10 years since arrival,49.5,Above median income
+Permanent Skilled,55 to 64,Secondary,Males,5 to 10 years since arrival,59.5,Above median income
+Permanent Skilled,55 to 64,Secondary,Females,5 to 10 years since arrival,59.5,Above median income
+Permanent Skilled,65+,Secondary,Males,5 to 10 years since arrival,65.0,Above median income
+Permanent Skilled,65+,Secondary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent Family,24 and Under,Primary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent Family,24 and Under,Primary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent Family,25 to 34,Primary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent Family,25 to 34,Primary,Females,5 to 10 years since arrival,29.5,Below median income
+Permanent Family,35 to 44,Primary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent Family,35 to 44,Primary,Females,5 to 10 years since arrival,39.5,Below median income
+Permanent Family,45 to 54,Primary,Males,5 to 10 years since arrival,49.5,Above median income
+Permanent Family,45 to 54,Primary,Females,5 to 10 years since arrival,49.5,Below median income
+Permanent Family,55 to 64,Primary,Males,5 to 10 years since arrival,59.5,Below median income
+Permanent Family,55 to 64,Primary,Females,5 to 10 years since arrival,59.5,Below median income
+Permanent Family,65+,Primary,Males,5 to 10 years since arrival,65.0,Below median income
+Permanent Family,65+,Primary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent Family,24 and Under,Secondary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent Family,24 and Under,Secondary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent Family,25 to 34,Secondary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent Family,25 to 34,Secondary,Females,5 to 10 years since arrival,29.5,Below median income
+Permanent Family,35 to 44,Secondary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent Family,35 to 44,Secondary,Females,5 to 10 years since arrival,39.5,Below median income
+Permanent Family,45 to 54,Secondary,Males,5 to 10 years since arrival,49.5,Above median income
+Permanent Family,45 to 54,Secondary,Females,5 to 10 years since arrival,49.5,Below median income
+Permanent Family,55 to 64,Secondary,Males,5 to 10 years since arrival,59.5,Below median income
+Permanent Family,55 to 64,Secondary,Females,5 to 10 years since arrival,59.5,Below median income
+Permanent Family,65+,Secondary,Males,5 to 10 years since arrival,65.0,Below median income
+Permanent Family,65+,Secondary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,24 and Under,Primary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,24 and Under,Primary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,25 to 34,Primary,Males,5 to 10 years since arrival,29.5,Above median income
+Permanent Humanitarian,25 to 34,Primary,Females,5 to 10 years since arrival,29.5,Below median income
+Permanent Humanitarian,35 to 44,Primary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent Humanitarian,35 to 44,Primary,Females,5 to 10 years since arrival,39.5,Below median income
+Permanent Humanitarian,45 to 54,Primary,Males,5 to 10 years since arrival,49.5,Below median income
+Permanent Humanitarian,45 to 54,Primary,Females,5 to 10 years since arrival,49.5,Below median income
+Permanent Humanitarian,55 to 64,Primary,Males,5 to 10 years since arrival,59.5,Below median income
+Permanent Humanitarian,55 to 64,Primary,Females,5 to 10 years since arrival,59.5,Below median income
+Permanent Humanitarian,65+,Primary,Males,5 to 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,65+,Primary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,24 and Under,Secondary,Males,5 to 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,24 and Under,Secondary,Females,5 to 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,25 to 34,Secondary,Males,5 to 10 years since arrival,29.5,Below median income
+Permanent Humanitarian,25 to 34,Secondary,Females,5 to 10 years since arrival,29.5,Below median income
+Permanent Humanitarian,35 to 44,Secondary,Males,5 to 10 years since arrival,39.5,Above median income
+Permanent Humanitarian,35 to 44,Secondary,Females,5 to 10 years since arrival,39.5,Below median income
+Permanent Humanitarian,45 to 54,Secondary,Males,5 to 10 years since arrival,49.5,Below median income
+Permanent Humanitarian,45 to 54,Secondary,Females,5 to 10 years since arrival,49.5,Below median income
+Permanent Humanitarian,55 to 64,Secondary,Males,5 to 10 years since arrival,59.5,Below median income
+Permanent Humanitarian,55 to 64,Secondary,Females,5 to 10 years since arrival,59.5,Below median income
+Permanent Humanitarian,65+,Secondary,Males,5 to 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,65+,Secondary,Females,5 to 10 years since arrival,65.0,Below median income
+Permanent,24 and Under,Primary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent,24 and Under,Primary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent,25 to 34,Primary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent,25 to 34,Primary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent,35 to 44,Primary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent,35 to 44,Primary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent,45 to 54,Primary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent,45 to 54,Primary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent,55 to 64,Primary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent,55 to 64,Primary,Females,More than 10 years since arrival,59.5,Above median income
+Permanent,65+,Primary,Males,More than 10 years since arrival,65.0,Above median income
+Permanent,65+,Primary,Females,More than 10 years since arrival,65.0,Below median income
+Permanent,24 and Under,Secondary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent,24 and Under,Secondary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent,25 to 34,Secondary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent,25 to 34,Secondary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent,35 to 44,Secondary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent,35 to 44,Secondary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent,45 to 54,Secondary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent,45 to 54,Secondary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent,55 to 64,Secondary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent,55 to 64,Secondary,Females,More than 10 years since arrival,59.5,Above median income
+Permanent,65+,Secondary,Males,More than 10 years since arrival,65.0,Above median income
+Permanent,65+,Secondary,Females,More than 10 years since arrival,65.0,Below median income
+Permanent Skilled,24 and Under,Primary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent Skilled,24 and Under,Primary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent Skilled,25 to 34,Primary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent Skilled,25 to 34,Primary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent Skilled,35 to 44,Primary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent Skilled,35 to 44,Primary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent Skilled,45 to 54,Primary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent Skilled,45 to 54,Primary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent Skilled,55 to 64,Primary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent Skilled,55 to 64,Primary,Females,More than 10 years since arrival,59.5,Above median income
+Permanent Skilled,65+,Primary,Males,More than 10 years since arrival,65.0,Above median income
+Permanent Skilled,65+,Primary,Females,More than 10 years since arrival,65.0,Above median income
+Permanent Skilled,24 and Under,Secondary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent Skilled,24 and Under,Secondary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent Skilled,25 to 34,Secondary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent Skilled,25 to 34,Secondary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent Skilled,35 to 44,Secondary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent Skilled,35 to 44,Secondary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent Skilled,45 to 54,Secondary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent Skilled,45 to 54,Secondary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent Skilled,55 to 64,Secondary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent Skilled,55 to 64,Secondary,Females,More than 10 years since arrival,59.5,Above median income
+Permanent Skilled,65+,Secondary,Males,More than 10 years since arrival,65.0,Above median income
+Permanent Skilled,65+,Secondary,Females,More than 10 years since arrival,65.0,Below median income
+Permanent Family,24 and Under,Primary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent Family,24 and Under,Primary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent Family,25 to 34,Primary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent Family,25 to 34,Primary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent Family,35 to 44,Primary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent Family,35 to 44,Primary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent Family,45 to 54,Primary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent Family,45 to 54,Primary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent Family,55 to 64,Primary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent Family,55 to 64,Primary,Females,More than 10 years since arrival,59.5,Below median income
+Permanent Family,65+,Primary,Males,More than 10 years since arrival,65.0,Below median income
+Permanent Family,65+,Primary,Females,More than 10 years since arrival,65.0,Below median income
+Permanent Family,24 and Under,Secondary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent Family,24 and Under,Secondary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent Family,25 to 34,Secondary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent Family,25 to 34,Secondary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent Family,35 to 44,Secondary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent Family,35 to 44,Secondary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent Family,45 to 54,Secondary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent Family,45 to 54,Secondary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent Family,55 to 64,Secondary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent Family,55 to 64,Secondary,Females,More than 10 years since arrival,59.5,Below median income
+Permanent Family,65+,Secondary,Males,More than 10 years since arrival,65.0,Below median income
+Permanent Family,65+,Secondary,Females,More than 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,24 and Under,Primary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,24 and Under,Primary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,25 to 34,Primary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent Humanitarian,25 to 34,Primary,Females,More than 10 years since arrival,29.5,Below median income
+Permanent Humanitarian,35 to 44,Primary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent Humanitarian,35 to 44,Primary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent Humanitarian,45 to 54,Primary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent Humanitarian,45 to 54,Primary,Females,More than 10 years since arrival,49.5,Above median income
+Permanent Humanitarian,55 to 64,Primary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent Humanitarian,55 to 64,Primary,Females,More than 10 years since arrival,59.5,Below median income
+Permanent Humanitarian,65+,Primary,Males,More than 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,65+,Primary,Females,More than 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,24 and Under,Secondary,Males,More than 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,24 and Under,Secondary,Females,More than 10 years since arrival,24.0,Below median income
+Permanent Humanitarian,25 to 34,Secondary,Males,More than 10 years since arrival,29.5,Above median income
+Permanent Humanitarian,25 to 34,Secondary,Females,More than 10 years since arrival,29.5,Above median income
+Permanent Humanitarian,35 to 44,Secondary,Males,More than 10 years since arrival,39.5,Above median income
+Permanent Humanitarian,35 to 44,Secondary,Females,More than 10 years since arrival,39.5,Above median income
+Permanent Humanitarian,45 to 54,Secondary,Males,More than 10 years since arrival,49.5,Above median income
+Permanent Humanitarian,45 to 54,Secondary,Females,More than 10 years since arrival,49.5,Below median income
+Permanent Humanitarian,55 to 64,Secondary,Males,More than 10 years since arrival,59.5,Above median income
+Permanent Humanitarian,55 to 64,Secondary,Females,More than 10 years since arrival,59.5,Below median income
+Permanent Humanitarian,65+,Secondary,Males,More than 10 years since arrival,65.0,Below median income
+Permanent Humanitarian,65+,Secondary,Females,More than 10 years since arrival,65.0,Below median income
