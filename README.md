@@ -1,6 +1,8 @@
 # PRT564-Assessment-4-Sydney-Group-8
 The repository contains the Python script for Assessment 4 PRT564
 
+**Note:** An error has been observed with the code files. If the error persists, refer to the GitHub Link file for the backup link.
+
 ## Project Overview
 
 This code package supports the PRT564 Assessment 4 group project. The project applies classification analysis to Australian labour-market, education and migrant income data using Australian Bureau of Statistics (ABS) datasets.
