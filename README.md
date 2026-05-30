@@ -1,7 +1,8 @@
 # PRT564-Assessment-4-Sydney-Group-8
 The repository contains the Python script for Assessment 4 PRT564
 
-**Note:** An error has been observed with the code files. If the error persists, refer to the GitHub Link file for the backup link (Google Drive).
+**Note:** An error has been observed with the code files. If the error persists, please use this link (Google Drive):
+https://drive.google.com/drive/folders/1RnG_6RDUBHNK6yvT-nzoduGm29kZPY82?usp=sharing
 
 ## Project Overview
 
