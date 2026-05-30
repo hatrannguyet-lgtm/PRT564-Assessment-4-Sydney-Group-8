@@ -13,9 +13,10 @@ The analysis is based on two classification research questions:
 
 The workflow is organised into three main stages:
 
-1. **Part 1 – Data Enrichment and Feature Engineering**
-2. **Part 2 – Exploratory Data Analysis and Visualisation**
-3. **Part 3 – Classification Modelling and Evaluation**
+1. **Part 1 – Data Enrichment and Feature Engineering** Minh Nguyet Tran 
+2. **Part 2 – Exploratory Data Analysis and Visualisation** Minh Nguyet Tran 
+3. **Part 3 – Classification Modelling and Evaluation** Seema
+4. **Part 4 – Model Evaluation and Discussion** Md Muhibul Azim
 
 ---
 
